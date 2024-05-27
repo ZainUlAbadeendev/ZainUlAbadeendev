@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainulabadeendev&label=Profile%20views&color=0e75b6&style=flat" alt="zainulabadeendev" /> </p>
 
-- 🌱 I’m currently learning **React, Nodejs**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Full Stack Development and Data Science**
 
 - 📫 How to reach me **zainulabadeendev@gmail.com**
 
