@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Zain Ul Abadeen</h1>
-<h3 align="center">A Passionate Frontend Developer.</h3>
+<h3 align="center">A Passionate Software Engineer and  Full Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainulabadeendev&label=Profile%20views&color=0e75b6&style=flat" alt="zainulabadeendev" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainulabadeendev&label=Profile%20views&color=0e75b6&style=flat" alt="zainulabadeendev" /> </p>Sof
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Full Stack Development and Data Science**
